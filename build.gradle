@@ -5,6 +5,5 @@ plugins {
 
 // This is needed to let io.gatling.gradle plugin to loads gatling as a dependency
 repositories {
-    jcenter()
     mavenCentral()
 }

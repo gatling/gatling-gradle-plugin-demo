@@ -12,5 +12,5 @@ max_line_length = 80
 indent_size = 4
 max_line_length = 120
 
-[*.{yml,yaml,conf,json,gradle}]
+[*.{yml,yaml,conf,json,gradle,xml}]
 indent_size = 2

@@ -26,7 +26,7 @@ $ cd ./gatling-gradle-plugin-demo
 
 To test it out, use following commands:
 
-. Run all Gatling simulations at once
+ * Run all Gatling simulations at once
 
 [source, bash]
 ----
@@ -39,4 +39,3 @@ $ ./gradlew gatlingRun
 ----
 $ ./gradlew gatlingRun-computerdatabase.BasicSimulation
 ----
-

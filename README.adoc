@@ -7,8 +7,9 @@ It includes:
 
 * minimal `build.gradle` leveraging Gradle wrapper
 * latest version of `io.gatling.gradle plugin` applied
-* sample https://javadoc.io/doc/io.gatling/gatling-core/latest/io/gatling/core/scenario/Simulation.html[Simulation] class,
-  demonstrating sufficient Gatling functionality
+* sample
+  https://javadoc.io/doc/io.gatling/gatling-core/latest/io/gatling/core/scenario/Simulation.html[Simulation]
+  class, demonstrating sufficient Gatling functionality
 * proper source file layout
 
 == Create sample project

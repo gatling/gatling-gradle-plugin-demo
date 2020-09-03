@@ -27,14 +27,14 @@ $ cd ./gatling-gradle-plugin-demo
 
 To test it out, use following commands:
 
- * Run all Gatling simulations at once
+* Run all Gatling simulations at once
 
 [source, bash]
 ----
 $ ./gradlew gatlingRun
 ----
 
-. Run single simulation by its FQN (fully qualified class name)
+* Run single simulation by its FQN (fully qualified class name)
 
 [source, bash]
 ----

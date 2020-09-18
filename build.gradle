@@ -9,7 +9,8 @@ gatling {
   logHttp = 'NONE' // set to 'ALL' for all HTTP traffic in TRACE, 'FAILURES' for failed HTTP traffic in DEBUG
 }
 
-// This is needed to let io.gatling.gradle plugin to loads gatling as a dependency
+/* maven central is added by default, uncomment and add more custom repositories
 repositories {
     mavenCentral()
 }
+*/

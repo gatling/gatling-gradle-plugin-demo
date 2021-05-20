@@ -14,3 +14,7 @@ repositories {
     mavenCentral()
 }
 */
+
+dependencies {
+  gatling 'commons-io:commons-io:2.6'
+}

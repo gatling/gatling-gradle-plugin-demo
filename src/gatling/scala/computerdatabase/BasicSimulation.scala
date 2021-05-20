@@ -2,9 +2,13 @@ package computerdatabase
 
 import io.gatling.core.Predef._
 import io.gatling.http.Predef._
+import org.apache.commons.io.IOUtils
+
 import scala.concurrent.duration._
 
 class BasicSimulation extends Simulation {
+
+  val qwe = IOUtils.DIR_SEPARATOR_WINDOWS
 
   val httpProtocol = http
     .baseUrl("http://computer-database.gatling.io") // Here is the root for all relative URLs
